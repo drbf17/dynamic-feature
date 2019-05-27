@@ -1,0 +1,1 @@
+include ':app', ':ui', ':feature_one', ':feature_two', ':navigator', ':core', ':dynamic_feature', ':dynamic_feature_test', ':card_module'

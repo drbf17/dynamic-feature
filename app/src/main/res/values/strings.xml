@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PocModule</string>
+    <string name="title_module_one">Module One</string>
+    <string name="title_module_two">Module Two</string>
+    <string name="title_dynamic_one">Module One</string>
+    <string name="title_feature_one">Module Title</string>
+    <string name="title_feature_two">Module Title</string>
+    <string name="label_message">Lista vazia</string>
+    <string name="title_dynamic_feature">Module Title</string>
+    <string name="title_dynamic_feature_test">Test Dynamic</string>
+    <string name="label_title_add_card">Adicionar Cards</string>
+    <string name="btn_add_card">Adicionar Card Dinâmico</string>
+    <string name="btn_open_card">Abrir Dinâmico</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+</resources>
